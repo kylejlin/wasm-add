@@ -1,0 +1,19 @@
+{
+  "name": "@kylejlin/wasm-add",
+  "collaborators": [
+    "Kyle Lin <kylejlin.us@gmail.com>"
+  ],
+  "description": "My wasm-pack hello world.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylejlin/wasm-add"
+  },
+  "files": [
+    "wasm_add_bg.wasm",
+    "wasm_add.d.ts"
+  ],
+  "main": "wasm_add.js",
+  "types": "wasm_add.d.ts"
+}
